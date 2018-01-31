@@ -31,8 +31,8 @@
     <style>
       .cls-1, .cls-2 {
         font-size: 200px;
-        opacity: 0.07;
-        fill: #0c0c0c;
+        opacity: 0.8;
+        fill: #888;
         text-anchor: middle;
       }
 
@@ -46,27 +46,42 @@
       }
     </style>
   </defs>
-  <text id="_" data-name="" class="cls-1" transform="translate(1481.6 609.982) scale(1.339)"><tspan x="0"></tspan></text>
-  <text id="_2" data-name="" class="cls-1" x="1059.035" y="267.382"><tspan x="1059.035"></tspan></text>
-  <text id="_3" data-name="" class="cls-1" x="1534.684" y="241.241"><tspan x="1534.684"></tspan></text>
-  <text id="_4" data-name="" class="cls-1" transform="translate(1892.095 158.31) scale(0.604)"><tspan x="0"></tspan></text>
-  <text id="_5" data-name="" class="cls-1" transform="translate(183.429 1238.277) scale(1.056)"><tspan x="0"></tspan></text>
-  <text id="_6" data-name="" class="cls-1" x="1929.329" y="801.208"><tspan x="1929.329"></tspan></text>
-  <text id="_7" data-name="" class="cls-1" transform="translate(1411.166 1127.703) scale(0.552)"><tspan x="0"></tspan></text>
-  <text id="_8" data-name="" class="cls-1" x="314.235" y="720.509"><tspan x="314.235"></tspan></text>
-  <text id="_9" data-name="" class="cls-1" transform="translate(109.885 486.041) scale(0.512)"><tspan x="0"></tspan></text>
-  <text id="_10" data-name="" class="cls-1" transform="translate(1023.761 1283.244) scale(0.691)"><tspan x="0"></tspan></text>
-  <text id="basketball" class="cls-2" transform="translate(556.084 983.233) scale(0.534)"><tspan x="0"></tspan></text>
-  <text id="html5" class="cls-2" transform="translate(602.16 598.312) scale(1.102)"><tspan x="0"></tspan></text>
-  <text id="_11" data-name="" class="cls-2" transform="translate(1847.252 1208.001) scale(0.77)"><tspan x="0"></tspan></text>
-  <text id="_12" data-name="" class="cls-2" x="1977.377" y="473.963"><tspan x="1977.377"></tspan></text>
-  <text id="_13" data-name="" class="cls-2" transform="translate(379.637 285.221) scale(0.456)"><tspan x="0"></tspan></text>
-  <text id="_14" data-name="" class="cls-1" transform="translate(109.83 137.956) scale(0.767)"><tspan x="0"></tspan></text>
-  <text id="_15" data-name="" class="cls-1" x="685.876" y="1299.398"><tspan x="685.876"></tspan></text>
-  <text id="_16" data-name="" class="cls-1" transform="translate(153.163 953.941) scale(0.732)"><tspan x="0"></tspan></text>
-  <text id="_17" data-name="" class="cls-1" transform="translate(905.707 903.315) scale(0.549)"><tspan x="0"></tspan></text>
-  <text id="_18" data-name="" class="cls-1" x="1268.33" y="922.495"><tspan x="1268.33"></tspan></text>
-  <text id="_19" data-name="" class="cls-1" x="676.365" y="205.002"><tspan x="676.365"></tspan></text>
-  <text id="_20" data-name="" class="cls-1" x="986.646" y="651.077"><tspan x="986.646"></tspan></text>
-  <text id="_21" data-name="" class="cls-1" transform="translate(1691.711 852.913) scale(0.514)"><tspan x="0"></tspan></text>
+  <text id="_" data-name="" class="cls-1" transform="translate(1509.158 687.553) scale(2.604)"><tspan x="0"></tspan></text>
+  <text id="_2" data-name="" class="cls-1" x="1168.034" y="192.383"><tspan x="1168.034"></tspan></text>
+  <text id="_3" data-name="" class="cls-1" x="1633.682" y="1143.241"><tspan x="1633.682"></tspan></text>
+  <text id="_4" data-name="" class="cls-1" transform="translate(1848.373 237.337) scale(1.314)"><tspan x="0"></tspan></text>
+  <text id="_5" data-name="" class="cls-1" x="1004.679" y="698.012"><tspan x="1004.679"></tspan></text>
+  <text id="_6" data-name="" class="cls-1" x="424.711" y="714.081"><tspan x="424.711"></tspan></text>
+  <text id="_7" data-name="" class="cls-1" transform="translate(221.652 1321.55) scale(1.688)"><tspan x="0"></tspan></text>
+  <text id="_8" data-name="" class="cls-2" x="1931.245" y="1024.881"><tspan x="1931.245"></tspan></text>
+  <text id="_9" data-name="" class="cls-1" x="1886.329" y="1283.208"><tspan x="1886.329"></tspan></text>
+  <text id="_10" data-name="" class="cls-1" x="1300.998" y="1208.607"><tspan x="1300.998"></tspan></text>
+  <text id="_11" data-name="" class="cls-1" x="449.234" y="921.51"><tspan x="449.234"></tspan></text>
+  <text id="_12" data-name="" class="cls-1" transform="translate(705.791 380.959) scale(0.472)"><tspan x="0"></tspan></text>
+  <text id="_13" data-name="" class="cls-1" transform="translate(1622.884 257.041) scale(0.512)"><tspan x="0"></tspan></text>
+  <text id="_14" data-name="" class="cls-1" x="1012.84" y="1273.528"><tspan x="1012.84"></tspan></text>
+  <text id="basketball" class="cls-2" x="598.006" y="1110.208"><tspan x="598.006"></tspan></text>
+  <text id="html5" class="cls-2" transform="translate(721.16 661.312) scale(1.102)"><tspan x="0"></tspan></text>
+  <text id="_15" data-name="" class="cls-2" transform="translate(1546.253 1299.001) scale(0.77)"><tspan x="0"></tspan></text>
+  <text id="_16" data-name="" class="cls-2" x="143.012" y="608.776"><tspan x="143.012"></tspan></text>
+  <text id="_17" data-name="" class="cls-2" transform="translate(985.54 388.628) scale(1.313)"><tspan x="0"></tspan></text>
+  <text id="_18" data-name="" class="cls-2" x="1977.377" y="473.963"><tspan x="1977.377"></tspan></text>
+  <text id="_19" data-name="" class="cls-2" x="195.228" y="995.427"><tspan x="195.228"></tspan></text>
+  <text id="_20" data-name="" class="cls-2" x="397.83" y="290.001"><tspan x="397.83"></tspan></text>
+  <text id="_21" data-name="" class="cls-2" x="1429.038" y="211.367"><tspan x="1429.038"></tspan></text>
+  <text id="_22" data-name="" class="cls-1" transform="translate(109.83 137.956) scale(0.767)"><tspan x="0"></tspan></text>
+  <text id="_23" data-name="" class="cls-1" x="685.876" y="1299.398"><tspan x="685.876"></tspan></text>
+  <text id="_24" data-name="" class="cls-1" transform="translate(148.163 796.941) scale(0.732)"><tspan x="0"></tspan></text>
+  <text id="_25" data-name="" class="cls-1" x="985.163" y="1015.681"><tspan x="985.163"></tspan></text>
+  <text id="_26" data-name="" class="cls-1" x="1596.332" y="837.495"><tspan x="1596.332"></tspan></text>
+  <text id="_27" data-name="" class="cls-1" transform="translate(1137.776 533.392) scale(0.501)"><tspan x="0"></tspan></text>
+  <text id="_28" data-name="" class="cls-1" x="683.245" y="912.029"><tspan x="683.245"></tspan></text>
+  <text id="_29" data-name="" class="cls-1" x="676.365" y="205.002"><tspan x="676.365"></tspan></text>
+  <text id="_30" data-name="" class="cls-1" x="1464.647" y="985.078"><tspan x="1464.647"></tspan></text>
+  <text id="_31" data-name="" class="cls-1" x="478.613" y="503.514"><tspan x="478.613"></tspan></text>
+  <text id="_32" data-name="" class="cls-1" x="167.888" y="402.438"><tspan x="167.888"></tspan></text>
+  <text id="_33" data-name="" class="cls-1" transform="translate(929.341 148.528) scale(0.741)"><tspan x="0"></tspan></text>
+  <text id="_34" data-name="" class="cls-1" x="1923.234" y="773.468"><tspan x="1923.234"></tspan></text>
+  <text id="_35" data-name="" class="cls-1" x="1213.529" y="814.434"><tspan x="1213.529"></tspan></text>
+  <text id="_36" data-name="" class="cls-1" x="1730.292" y="966.894"><tspan x="1730.292"></tspan></text>
 </svg>
